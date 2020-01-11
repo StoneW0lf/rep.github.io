@@ -1,0 +1,55 @@
+.uuu {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 200px;
+	align-items: center;
+
+}
+
+.div1{
+	width: 20%;
+
+}
+
+.div2{
+	width: 80%;
+	height: 100%;
+	background-image: url(http://mediasat.info/wp-content/uploads/2019/03/Sony.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+ }
+ .img1{
+height: 100%;
+width: 100%;
+}
+.dr{
+font-size:0;
+}
+.dd{
+display: inline-block;
+width: 50%;
+justify-content:space-around;
+
+}
+.ddd{
+display: inline-block;
+width: 50%;
+font-size: 25px;
+justify-content:space-around;
+
+}
+   body {
+    background: #000000	; 
+    color: #1E90FF		;    }
+    td{
+    	font-size: 25px;
+    }
+    li{
+    	font-size: 25px;
+    }
+    h3{
+    	font-size: 25px;
+    }
+
